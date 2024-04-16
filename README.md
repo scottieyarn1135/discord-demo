@@ -23,6 +23,8 @@ If you wanted a shiny pikachu it would be the following commands: /pokepicker pi
 
 This was made with docker in mind I am assuming you are used to docker as a tool
 
+<a href="https://docs.docker.com/get-started/overview/">To get started learning docker use the following link</a>
+
 you have also set up both a discord bot and you have the api key and you have a nasa api key
 
 <a href="https://www.freecodecamp.org/news/create-a-discord-bot-with-python/">Follow the start of this page to learn how to make an api key for the discord</a>

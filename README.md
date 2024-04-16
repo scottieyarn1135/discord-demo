@@ -11,7 +11,7 @@ The current features of the bot:
 /quote_of_the_day -> gets the quote of the day from quote api
 ```
 ```
-/space_picture_of_the_day -> This will give a small description from the nasa api and it will provide the link (This would also show the image but I removed it while I work on a fix incase nasa include a youtube link instead which is an edge case)
+/space_picture_of_the_day -> This will give a small description from the nasa api and it will provide the link to the image or youtube video (This would also show the image but I removed it while I work on a fix incase nasa include a youtube link instead which is an edge case)
 ```
 ```
 /pokepicker <pokemon name> <Shiny or you would leave it blank>
